@@ -6,7 +6,7 @@
 
 
 # About
-Kate Cash is a pure-Java implementation of the KateCash protocol. For high-level information about KateCash and its goals, visit [KateCash.vip](http://KateCash.vip).
+Kate Cash is a pure-Java implementation of the KateCash protocol. For high-level information about KateCash and its goals,please read source.
 
 # Running KateCash
 
